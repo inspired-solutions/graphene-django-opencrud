@@ -1,0 +1,14 @@
+# Virtualenv
+venv/
+
+# editors
+.idea
+**/.tern-port
+.vscode
+
+.pytest_cache/
+htmlcov/
+.coverage
+__pycache__/
+.eggs/
+*.egg-info/
